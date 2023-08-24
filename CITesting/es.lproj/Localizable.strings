@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  CITesting
+
+  Created by  Dennya on 24/08/2023.
+  
+*/
+
+"main_screen.navigation_title" = "Principal";
+"main_screen.title" = "Hola, Mundo!";
+"main_screen.open_poem" = "Abrir poema";
+
+"poem_screen.navigation_title" = "Flores";
+"poem_screen.poem_text" = "Algunos hombres nunca lo pienso.\nTu hicistelo. To llegara conmigo\nY decirá que casi llegaria me flores\nPero algo era incorrecto.";

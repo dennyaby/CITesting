@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  CITesting
+
+  Created by  Dennya on 24/08/2023.
+  
+*/
+
+"main_screen.navigation_title" = "Главный";
+"main_screen.title" = "Привет, Мир!";
+"main_screen.open_poem" = "Открыть стихотворение";
+
+"poem_screen.navigation_title" = "Цветы";
+"poem_screen.poem_text" = "Некоторые не думают об этом.\nА ты думаешь. Ты пошла со мной\nИ почти сказала что принесёшь мне цветы\nНо что-то было не так.";

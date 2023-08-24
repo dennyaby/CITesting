@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  CITesting
+
+  Created by  Dennya on 24/08/2023.
+  
+*/
+
+"main_screen.navigation_title" = "Main";
+"main_screen.title" = "Hello, World!";
+"main_screen.open_poem" = "Open poem";
+
+"poem_screen.navigation_title" = "Flowers";
+"poem_screen.poem_text" = "Some men never think of it.\nYou did. You’d come along\nAnd say you’d nearly brought me flowers\nBut something had gone wrong.";
